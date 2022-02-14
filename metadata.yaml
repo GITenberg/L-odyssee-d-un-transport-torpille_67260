@@ -1,0 +1,27 @@
+_repo: L-odyssee-d-un-transport-torpille_67260
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larrouy, Maurice
+    gutenberg_agent_id: '54179'
+    url: http://www.gutenberg.org/2009/agents/54179
+description: ''
+gutenberg_issued: '2022-01-28'
+identifiers:
+  gutenberg: '67260'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=KLKfcLjszJEC
+pgterms:marc905: 20210403154510larrouy
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: France :Payot,1917,pubdate 1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'odyssée d'un transport torpillé
+url: http://www.gutenberg.org/ebooks/67260
